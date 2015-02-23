@@ -32,7 +32,10 @@ body {
 body {
   color: #fff;
   text-align: center;
-  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+//  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  font-family: "open-sans";
+  font-weight: 300;
+  font-style: normal;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -115,6 +118,9 @@ body {
 .cover .btn-lg {
   padding: 10px 20px;
   font-weight: bold;
+  font-family: "open-sans";
+  font-weight: 400;
+  font-style: normal;
 }
 
 
