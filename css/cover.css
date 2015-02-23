@@ -67,7 +67,7 @@ body {
 }
 .masthead-nav > li {
   display: inline-block;
-  padding-right: 20px;
+  padding-right: 10px;
 }
 .masthead-nav > li + li {
   margin-left: 20px;
