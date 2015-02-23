@@ -64,9 +64,6 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 100px;
-  height: 153px;
-  background-image: url(../images/logo.gif)
 }
 .masthead-nav > li {
   display: inline-block;
