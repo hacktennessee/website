@@ -117,7 +117,7 @@ body {
 }
 .cover .btn-lg {
   padding: 10px 20px;
-  font-weight: bold;
+//  font-weight: bold;
   font-family: "open-sans";
   font-weight: 400;
   font-style: normal;
@@ -129,8 +129,12 @@ body {
  */
 
 .mastfoot {
-  color: #999; /* IE8 proofing */
-  color: rgba(255,255,255,.5);
+//  color: #999; /* IE8 proofing */
+//  color: rgba(255,255,255,.5);
+  color: #6E6E6E; /* IE8 proofing */
+  font-family: "open-sans";
+  font-weight: 400;
+  font-style: normal;
 }
 
 
