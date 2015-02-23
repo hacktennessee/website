@@ -110,7 +110,8 @@ body {
   padding: 0 20px;
 }
 .cover .btn-lg {
-  padding: 10px 20px;
+  padding: 15px 25px;
+  font-size: 18px;
   font-family: "open-sans";
   font-weight: 400;
   font-style: normal;
