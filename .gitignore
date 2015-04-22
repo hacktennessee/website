@@ -3,3 +3,8 @@ Gruntfile.js
 package.json
 scss/
 sourceimages/
+css/.DS_Store
+fonts/.DS_Store
+fonts/bootstrap/.DS_Store
+images/.DS_Store
+js/.DS_Store
