@@ -1,3 +1,5 @@
+#Hack Tennessee Code of Conduct
+
 Hack Tennessee is a community event intended for networking and collaboration in the developer and designer communities.
 
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the event and at all event gatherings, whether officially sponsored by Hack Tennessee or not.
