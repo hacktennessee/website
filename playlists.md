@@ -1,20 +1,20 @@
 ##Hack — Energy #1 (60 minutes)
 
-Dynamite, Taio Cruz
-Happy, Pharrell Williams
-Evacuate the Dancefloor, Cascada
-Crazy In Love, Beyoncé
-Problem, Ariana Grande
-Can't Hold Us, Macklemore & Ryan Lewis
-Dirt Off Your Shoulder, Jay-Z
-Good Feeling, Flo Rida
-Numb/Encore, Linkin Park & Jay-Z
-The Monster, Eminem
-So Good, B.o.B
-Clocks, Coldplay
-Typical, MUTE MATH
-Smells Like Teen Spirit, Nirvana
-Vertigo, U2
+* Dynamite, Taio Cruz
+* Happy, Pharrell Williams
+* Evacuate the Dancefloor, Cascada
+* Crazy In Love, Beyoncé
+* Problem, Ariana Grande
+* Can't Hold Us, Macklemore & Ryan Lewis
+* Dirt Off Your Shoulder, Jay-Z
+* Good Feeling, Flo Rida
+* Numb/Encore, Linkin Park & Jay-Z
+* The Monster, Eminem
+* So Good, B.o.B
+* Clocks, Coldplay
+* Typical, MUTE MATH
+* Smells Like Teen Spirit, Nirvana
+* Vertigo, U2
 
 
 ##Hack — Energy #2 (59 minutes)
