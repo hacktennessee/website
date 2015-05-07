@@ -34,7 +34,9 @@
 * Best of You, Foo Fighters
 * Mirrors, Justin Timberlake
 
-##Hack — Energy #3 (59 minutes)
+##Hack — Energy #3 (1 hour, 8 minutes)
+* Miami Showdown, Digitalism
+* I Need My Memory Back, The Glitch Mob
 * I Remember, deadmau5 & Kaskade
 * Without You, David Guetta
 * Levels, Avicii
